@@ -1,0 +1,31 @@
+﻿# Compiled Object & Executable files
+*.exe
+*.o
+*.obj
+*.out
+
+# Java Class & Archive files
+*.class
+*.jar
+*.war
+
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code directory overrides
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store

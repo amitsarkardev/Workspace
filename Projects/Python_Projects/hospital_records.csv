@@ -1,0 +1,6 @@
+Patient ID,Patient Name,Age,Disease,Treatment Cost,Status
+102,Rohan,54,Cardiac,25000,Admitted
+104,Sneha,65,Diabetes,18000,Admitted
+103,Priya,42,Ortho,14000,Admitted
+101,Amit,28,Fever,4500,Discharged
+105,Vikram,35,Flu,3000,Discharged

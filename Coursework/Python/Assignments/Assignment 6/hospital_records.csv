@@ -1,0 +1,6 @@
+Patient ID,Patient Name,Age,Disease,Treatment Cost,Status
+P102,Rohan,56,Cardiac Care,32000,Admitted
+P104,Sneha,64,Hypertension,18500,Admitted
+P103,Priya,42,Orthopaedic,15000,Admitted
+P101,Amit,28,Viral Fever,4500,Discharged
+P105,Vikram,35,Seasonal Flu,3000,Discharged
